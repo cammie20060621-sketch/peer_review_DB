@@ -74,7 +74,7 @@ Describe any technical or collaboration difficulties you personally encountered 
 
 What percentage of the total team effort do you estimate you personally contributed?
 
-> My estimated contribution: **__33__%**
+> My estimated contribution: **__34__%**
 
 ---
 
